@@ -1,0 +1,9 @@
+export const HOME_PAGE_VISIT = 'HOME_PAGE_VISIT';
+export const ABOUT_PAGE_VISIT = 'ABOUT_PAGE_VISIT';
+export const PRODUCT_LIST = 'ABOUT_PAGE_VISIT';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const SELECT_PRODUCT = 'SELECT_PRODUCT';
+export const ADD_CART = 'ADD_CART';
+export const ADD_CART_PRODUCT = 'ADD_CART_PRODUCT';
+export const REMOVE_CART_PRODUCT = 'REMOVE_CART_PRODUCT';
+export const CART_COUNT = 'CART_COUNT'
